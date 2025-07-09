@@ -51,4 +51,4 @@ This immersive experience focuses on:
 
 # Projects
 
-This repository shows all the Apps and projects I personally built as well as the learning modules of the entire program.
+This repository shows all the Apps and projects I personally built as well as the learning modules of the entire program on a week by week basis.
