@@ -33,22 +33,22 @@ Dev Tools: Git, GitHub
 
 # Lessons learned
 
-Basics of Different Programming Languages
-App Strategies (Platform, native, ect.)
-GitHub and Collaboration
-Build an App with HTML (The SDLC)
-Principles of UX Designs, Basic Layouts and Transitions
-Design Thinking
-API's, Data Input and Processing
-User Centric Development
-Data Management and Analysis
-Business Development
-Backend Development Intro
-Backend Development (Build an API)
-AI in Development
-Business Funding
-Marketing your App Business
+- Basics of Different Programming Languages
+- App Strategies (Platform, native, ect.)
+- GitHub and Collaboration
+- Build an App with HTML (The SDLC)
+- Principles of UX Designs, Basic Layouts and Transitions
+- Design Thinking
+- API's, Data Input and Processing
+- User Centric Development
+- Data Management and Analysis
+- Business Development
+- Backend Development Intro
+- Backend Development (Build an API)
+- AI in Development
+- Business Funding
+- Marketing your App Business
 
 # Projects
 
-This repository shows all the projects I personally built as well as the learning modules of the entire program.
+This repository shows all the Apps and projects I personally built as well as the learning modules of the entire program.
