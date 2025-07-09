@@ -26,10 +26,10 @@ This immersive experience focuses on:
 
 # Tools
 
-Languages: HTML, CSS, JavaScript, Python
-Frameworks: Django, Bootstrap
-Databases: PHP
-Dev Tools: Git, GitHub
+- Languages: HTML, CSS, JavaScript, Python
+- Frameworks: Django, Bootstrap
+- Databases: PHP
+- Dev Tools: Git, GitHub
 
 # Lessons learned
 
